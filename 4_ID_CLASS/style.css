@@ -1,0 +1,22 @@
+#titulo-h2{
+    color:darkolivegreen;
+}
+
+.fundo-verde {
+    background-color: rgb(1, 44, 1);
+}
+
+.texto-verdeclaro{
+    color:darkolivegreen ;
+}
+
+h2 {
+    color: olive;
+}
+
+p {
+    color: rgb(13, 126, 13);
+}
+
+/* cascata */
+/* especificação */
